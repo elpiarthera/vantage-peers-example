@@ -5,6 +5,8 @@
 
 **Two agents. Shared memory. Real messaging. Five minutes.**
 
+![VantagePeers Example](assets/demo-screenshot.png)
+
 ```
 Agent A                    Agent B
   |                           |
