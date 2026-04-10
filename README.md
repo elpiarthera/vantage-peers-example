@@ -121,7 +121,7 @@ Both agents should report successful memory storage, messaging, and recall. You 
 - Read the [full docs](https://vantagepeers.com/docs)
 - Try the [Quickstart](https://vantagepeers.com/docs/getting-started/quickstart) for a deeper walkthrough
 - Add [tasks](https://vantagepeers.com/docs/capabilities/tasks) for work coordination
-- Browse all [70 MCP tools](https://vantagepeers.com/docs/tools)
+- Browse all [82 MCP tools](https://vantagepeers.com/docs/tools)
 - See [Supported Tools](https://vantagepeers.com/docs/getting-started/supported-tools) for Cursor, Codex, Windsurf, and 9 more
 
 ## License
